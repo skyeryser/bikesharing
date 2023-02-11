@@ -7,18 +7,32 @@ This analysis is part of a business proposal to start a bike-sharing program in 
 4. The start and end locations of bike trips around the city
 
 ## Results
+
 ![01_trips_by_time.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/01_trips_by_time.png)
+
 During the work week, riders use Citybike rentals between 7 and 9 AM and 4 and 7 PM. On the weekend, rentals are spread out more evenly throughout the day.
+
+![02_male_ridership.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/02_male_ridership.png)
 
 Male subscribers are more likely to use the Citybike-sharing service than females and people of unknown gender. 
 
+![03_ridership_by_gender.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/03_ridership_by_gender.png)
+
 Subscribers are more likely to use Citibike rentals than one-time riders. The most active days for subscribers to ride bikes are Thursdays and Fridays.
+
+![04_trip_duration.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/04_trip_duration.png)
 
 Citibike rides usually last fewer than 20 minutes and rarely surpass 40 minutes. 
 
+![05_trip_duration.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/05_trip_duration.png)
+
 As depicted in previous visualizations, male ridership is the most prevalent, followed by unknown genders and females.
 
+![06_starting_locations.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/06_starting_locations.png)
+
 Bike trips tend to start within a relatively contained area in the city. 
+
+![07_ending_locations.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/07_ending_locations.png)
 
 Trips end in roughly the same area as they began. This pattern correlates with the relatively short average trip duration of fewer than 20 minutes per ride.
 
