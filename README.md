@@ -7,6 +7,7 @@ This analysis is part of a business proposal to start a bike-sharing program in 
 4. The start and end locations of bike trips around the city
 
 ## Results
+![01_trips_by_time.png](https://github.com/skyeryser/bikesharing/blob/main/Photos/01_trips_by_time.png)
 During the work week, riders use Citybike rentals between 7 and 9 AM and 4 and 7 PM. On the weekend, rentals are spread out more evenly throughout the day.
 
 Male subscribers are more likely to use the Citybike-sharing service than females and people of unknown gender. 
